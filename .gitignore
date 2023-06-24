@@ -1,0 +1,7 @@
+/target
+
+# Vscode
+.vscode
+
+# environment
+.env
